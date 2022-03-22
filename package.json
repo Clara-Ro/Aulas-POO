@@ -1,0 +1,34 @@
+{
+  "name": "aulas-poo",
+  "version": "1.0.0",
+  "description": "Exercícios da minhas aulas de POO da faculdade",
+  "main": "index.js",
+  "scripts": { 
+    "dev:exc01": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc01/index.ts",
+    "dev:exc02": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc02/index.ts", 
+    "dev:exc03": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc03/index.ts", 
+    "dev:exc04": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc04/index.ts", 
+    "dev:exc05": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc05/index.ts" 
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clara-Ro/Aulas-POO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clara-Ro/Aulas-POO/issues"
+  },
+  "homepage": "https://github.com/Clara-Ro/Aulas-POO#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "ts-node-dev": "^1.1.8",
+    "tsconfig-paths": "^3.14.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
