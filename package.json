@@ -8,7 +8,9 @@
     "dev:exc02": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc02/index.ts", 
     "dev:exc03": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc03/index.ts", 
     "dev:exc04": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc04/index.ts", 
-    "dev:exc05": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc05/index.ts" 
+    "dev:exc05": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc05/index.ts", 
+    "dev:exc06": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc06/index.ts",
+    "dev:exc07": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/Exc07/index.ts" 
   },
 
   "repository": {
